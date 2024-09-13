@@ -1,4 +1,4 @@
-# mips_inline_hook
+# [mips_inline_hook](https://github.com/haidragon/haidragon.github.io/blob/main/linux/linux.md)
 mips32_64_inline_hook
 
 
@@ -68,4 +68,3 @@ bilibili:haidragonx
 * 98.linux内核模块注入
 * 99.安全基础技术总结
 
-[!完整目录](https://github.com/haidragon/haidragon.github.io/blob/main/linux/linux.md)
